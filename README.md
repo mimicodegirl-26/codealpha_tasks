@@ -5,6 +5,7 @@ codealpha_tasks/
 │   ├── models/
 │   ├── README.md
 │   └── ...
+
 ├── Task2_EmotionRecognition/
 │   ├── app.py
 │   ├── train_emotion.py
